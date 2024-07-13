@@ -1,0 +1,5 @@
+Recursion based
+
+Calculates a^b where a is any natural number and b is any integer 
+
+time complexity O(log(b))
